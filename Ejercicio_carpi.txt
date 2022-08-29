@@ -1,0 +1,7 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: WinCarpiteriaEjercitacion, configuración: Debug Any CPU ------
+1>C:\Users\China\Downloads\WinCarpiteriaEjercitacion\WinCarpiteriaEjercitacion\Formulario\Frm_Alta_Presupuesto.cs(1,22,1,27): error CS0234: El tipo o el nombre del espacio de nombres 'datos' no existe en el espacio de nombres 'CarpinteriaApp' (¿falta alguna referencia de ensamblado?)
+1>C:\Users\China\Downloads\WinCarpiteriaEjercitacion\WinCarpiteriaEjercitacion\Formulario\Frm_Alta_Presupuesto.cs(2,22,2,29): error CS0234: El tipo o el nombre del espacio de nombres 'dominio' no existe en el espacio de nombres 'CarpinteriaApp' (¿falta alguna referencia de ensamblado?)
+1>C:\Users\China\Downloads\WinCarpiteriaEjercitacion\WinCarpiteriaEjercitacion\Formulario\Frm_Alta_Presupuesto.cs(12,17,12,25): error CS0246: El nombre del tipo o del espacio de nombres 'HelperDB' no se encontró (¿falta una directiva using o una referencia de ensamblado?)
+1>C:\Users\China\Downloads\WinCarpiteriaEjercitacion\WinCarpiteriaEjercitacion\Formulario\Frm_Alta_Presupuesto.cs(13,17,13,28): error CS0246: El nombre del tipo o del espacio de nombres 'Presupuesto' no se encontró (¿falta una directiva using o una referencia de ensamblado?)
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
